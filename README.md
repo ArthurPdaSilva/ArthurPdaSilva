@@ -40,6 +40,8 @@ Atualmente, estou focado em **front-end** com **React** e no **back-end** com **
 
 ### Tecnologias Passadas:
 <div style="display: inline_block">
+  
+   <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
   <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">       
 </div>
