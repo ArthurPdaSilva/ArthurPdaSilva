@@ -1,52 +1,49 @@
-### Olá, eu me chamo Arthur 👋🤓
-Atualmente, estou focado em **front-end** com **React** e no **back-end** com **C#**.
+# Arthur Pereira da Silva
+**Desenvolvedor Full Stack | Especialista em IA Generativa & Agentes**
 
-### Meus Status 📊
-<div>
-  <a href="https://github.com/arthurpdasilva">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurpdasilva&layout=compact&langs_count=7&theme=dark"/>
-  </a>
-</div>
+[LinkedIn](https://www.linkedin.com/in/arthur-pereira-da-silva-22b020213) | [GitHub](https://github.com/ArthurPdaSilva) 
+**Localização:** Brasil (Remoto) | **Email:** arthurnpdasilva@gmail.com
 
+---
 
-### Front-end:
-<div style="display: inline_block">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/storybook/storybook-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg">
-  <img align="center" alt="Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-  <img align="center" alt="Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+### 📝 Resumo Profissional
+Desenvolvedor Full Stack com sólida expertise no ecossistema **.NET (C#)** e **React (Next.js/TypeScript)**. Especialista na construção de aplicações escaláveis e na orquestração de sistemas multi-agente utilizando **LangGraph** e **LangChain**. Pioneiro na implementação de culturas de qualidade com foco em automação de testes **E2E (Cypress)** e pipelines de **CI/CD** via GitHub Actions. Graduado pelo IFPB com CRE de **94,29**, aliando rigor técnico à excelência acadêmica.
 
-### Back-end:
-<div style="display: inline_block">
-  <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg">
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />              
-</div>
+---
 
-### Banco de Dados:
-<div style="display: inline_block">
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-  <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />          
-</div>
+### 🛠️ Hard Skills
+* **Frontend:** React, Next.js (15+), TypeScript, TailwindCSS, Material UI, React Query, Vue.js.
+* **Backend:** C# (.NET Core/ASP.NET), Python (FastAPI), Node.js (Express), Java (Spring), Go.
+* **Inteligência Artificial:** LangChain, LangGraph, OpenAI, Arquitetura RAG, Vector Stores.
+* **Dados & Geo:** PostgreSQL, MySQL, MongoDB, Firebase, OpenLayers, GeoServer.
+* **DevOps & Testes:** Cypress, GitHub Actions, Selenium, Swagger (OpenAPI).
 
-### Tecnologias já utilizadas:
-<div style="display: inline_block">
-  <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">       
-</div>
- 
+---
 
-  ### Me Encontre Aqui 📬
-<a href="https://www.linkedin.com/in/arthur-pereira-da-silva-22b020213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+### 💼 Experiência Profissional
 
+#### **Alvarez & Marsal** | *Desenvolvedor Full Stack*
+*Junho 2024 – Atual (São Paulo, Brasil / Remoto)*
+* **IA & Inovação:** Implementação e manutenção de sistemas multi-agente utilizando LangGraph e LangChain para otimizar a orquestração de LLMs.
+* **Arquitetura Full Stack:** Atuação no ciclo completo de aplicações web modernas com React (TypeScript, React Query) no frontend e C#/.NET no backend.
+* **Qualidade & CI/CD:** Introdução da cultura de testes na empresa, implementando a primeira suíte de testes E2E com Cypress e integração via GitHub Actions.
+* **Geoprocessamento:** Construção de interfaces geoespaciais avançadas com OpenLayers e consumo de camadas via GeoServer.
+
+#### **Ignis** | *Estagiário em Desenvolvimento de Software*
+*Junho 2023 – Junho 2024 (Rio de Janeiro, Brasil / Remoto)*
+* **Definição de Stack:** Atuação estratégica na definição da arquitetura da plataforma administrativa utilizando ASP.NET (C#) e React.
+* **Automação & Crawlers:** Desenvolvimento de robôs para coleta automatizada de dados em larga escala utilizando C# e Selenium.
+
+#### **IFPB - Monteiro** | *Bolsista em Projeto de Extensão (Arretadas)*
+*Fevereiro 2022 – Janeiro 2023*
+* **Visualização de Dados:** Construção de dashboards dinâmicos para dados críticos sobre violência contra a mulher utilizando Vue.js e Chart.js.
+* **Backend & API:** Manutenção de serviços com Node.js/Express e documentação via Swagger.
+
+---
+
+### 🚀 Projetos em Destaque
+
+**Finance Core** | [GitHub](https://github.com/ArthurPdaSilva/finance-core)
+* Desenvolvimento de sistema multi-agente com LangGraph/LangChain para análise financeira.
+* Implementação de arquitetura RAG integrada a Vector Store para busca semântica.
+* **Stack:** FastAPI (Python 3.13), Next.js 15, TypeScript, SQLAlchemy e SQLite.
