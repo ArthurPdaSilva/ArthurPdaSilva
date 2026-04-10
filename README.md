@@ -12,7 +12,7 @@ Desenvolvedor Full Stack com sólida expertise no ecossistema **.NET (C#)** e **
 ---
 
 ### 🛠️ Hard Skills
-* **Frontend:** React, Next.js (15+), TypeScript, TailwindCSS, Material UI, React Query, Vue.js.
+* **Frontend:** React, ReactNative, Next.js (15+), TypeScript, TailwindCSS, Material UI, React Query, Vue.js.
 * **Backend:** C# (.NET Core/ASP.NET), Python (FastAPI), Node.js (Express), Java (Spring), Go.
 * **Inteligência Artificial:** LangChain, LangGraph, OpenAI, Arquitetura RAG, Vector Stores.
 * **Dados & Geo:** PostgreSQL, MySQL, MongoDB, Firebase, OpenLayers, GeoServer.
