@@ -1,49 +1,45 @@
-# Arthur Pereira da Silva
-**Desenvolvedor Full Stack | Especialista em IA Generativa & Agentes**
+<div align="center">
 
-[LinkedIn](https://www.linkedin.com/in/arthur-pereira-da-silva-22b020213) | [GitHub](https://github.com/ArthurPdaSilva) 
-**Localização:** Brasil (Remoto) | **Email:** arthurnpdasilva@gmail.com
+# Olá, eu sou o Arthur Pereira da Silva 👋
 
----
+### 🚀 Desenvolvedor Full Stack | Especialista em IA & Sistemas Multi-agente
 
-### 📝 Resumo Profissional
-Desenvolvedor Full Stack com sólida expertise no ecossistema **.NET (C#)** e **React (Next.js/TypeScript)**. Especialista na construção de aplicações escaláveis e na orquestração de sistemas multi-agente utilizando **LangGraph** e **LangChain**. Pioneiro na implementação de culturas de qualidade com foco em automação de testes **E2E (Cypress)** e pipelines de **CI/CD** via GitHub Actions. Graduado pelo IFPB com CRE de **94,29**, aliando rigor técnico à excelência acadêmica.
-
----
-
-### 🛠️ Hard Skills
-* **Frontend:** React, ReactNative, Next.js (15+), TypeScript, TailwindCSS, Material UI, React Query, Vue.js.
-* **Backend:** C# (.NET Core/ASP.NET), Python (FastAPI), Node.js (Express), Java (Spring), Go.
-* **Inteligência Artificial:** LangChain, LangGraph, OpenAI, Arquitetura RAG, Vector Stores.
-* **Dados & Geo:** PostgreSQL, MySQL, MongoDB, Firebase, OpenLayers, GeoServer.
-* **DevOps & Testes:** Cypress, GitHub Actions, Selenium, Swagger (OpenAPI).
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-pereira-da-silva-22b020213)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArthurPdaSilva)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurnpdasilva@gmail.com)
 
 ---
 
-### 💼 Experiência Profissional
+</div>
 
-#### **Alvarez & Marsal** | *Desenvolvedor Full Stack*
-*Junho 2024 – Atual (São Paulo, Brasil / Remoto)*
-* **IA & Inovação:** Implementação e manutenção de sistemas multi-agente utilizando LangGraph e LangChain para otimizar a orquestração de LLMs.
-* **Arquitetura Full Stack:** Atuação no ciclo completo de aplicações web modernas com React (TypeScript, React Query) no frontend e C#/.NET no backend.
-* **Qualidade & CI/CD:** Introdução da cultura de testes na empresa, implementando a primeira suíte de testes E2E com Cypress e integração via GitHub Actions.
-* **Geoprocessamento:** Construção de interfaces geoespaciais avançadas com OpenLayers e consumo de camadas via GeoServer.
+## 💡 Sobre Mim
+Minha paixão está na intersecção entre o desenvolvimento de software robusto e a inteligência artificial. Atualmente, foco em construir sistemas que não apenas processam dados, mas que tomam decisões contextuais e inteligentes.
 
-#### **Ignis** | *Estagiário em Desenvolvimento de Software*
-*Junho 2023 – Junho 2024 (Rio de Janeiro, Brasil / Remoto)*
-* **Definição de Stack:** Atuação estratégica na definição da arquitetura da plataforma administrativa utilizando ASP.NET (C#) e React.
-* **Automação & Crawlers:** Desenvolvimento de robôs para coleta automatizada de dados em larga escala utilizando C# e Selenium.
-
-#### **IFPB - Monteiro** | *Bolsista em Projeto de Extensão (Arretadas)*
-*Fevereiro 2022 – Janeiro 2023*
-* **Visualização de Dados:** Construção de dashboards dinâmicos para dados críticos sobre violência contra a mulher utilizando Vue.js e Chart.js.
-* **Backend & API:** Manutenção de serviços com Node.js/Express e documentação via Swagger.
+Sou movido pelo desafio de criar arquiteturas escaláveis — do backend em **.NET** ou **FastAPI** até interfaces fluidas em **React/Next.js** — sempre mantendo a cultura de testes e qualidade em primeiro lugar.
 
 ---
 
-### 🚀 Projetos em Destaque
+## 🛠 Tech Stack
 
-**Finance Core** | [GitHub](https://github.com/ArthurPdaSilva/finance-core)
-* Desenvolvimento de sistema multi-agente com LangGraph/LangChain para análise financeira.
-* Implementação de arquitetura RAG integrada a Vector Store para busca semântica.
-* **Stack:** FastAPI (Python 3.13), Next.js 15, TypeScript, SQLAlchemy e SQLite.
+### 🧠 Inteligência Artificial & Backend
+<img src="https://img.shields.io/badge/LangChain-000000?style=flat&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/LangGraph-000000?style=flat&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-05998B?style=flat&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
+
+### 💻 Frontend & Web
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+
+### ⚙️ DevOps & Quality
+<img src="https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
+
+---
+
+## 🚀 Projetos em Destaque
+
+### 🤖 [Finance Core](https://github.com/ArthurPdaSilva)
+Um ecossistema central de ferramentas financeiras impulsionadas por IA.
+* **O que é:** Um monorepo que utiliza **FastAPI** no backend e **Next.js 15** no frontend para orquestrar agentes inteligentes.
+* **Destaque:** Focado em automação financeira e tomadas de decisão baseadas em fluxos de IA.
+
+### 📊 [Projeto Arretadas](https://github.com/ArthurPdaSilva)
+Uma plataforma voltada para o impacto social e visualização de dados críticos.
+* **O que é:** Dashboard focado na prevenção à violência contra mulheres, transformando dados brutos em insights visuais claros.
+* **
