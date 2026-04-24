@@ -42,10 +42,10 @@ Um ecossistema central de ferramentas financeiras impulsionadas por IA.
 * **O que é:** Um monorepo que utiliza **FastAPI** no backend e **Next.js 15** no frontend para orquestrar agentes inteligentes.
 * **Destaque:** Focado em automação financeira e tomadas de decisão baseadas em fluxos de IA.
 
-### 🏗️ [Vcampos](https://github.com/ArthurPdaSilva)
-[Breve descrição do projeto Vcampos aqui. Ex: Sistema para otimização de fluxos de trabalho.]
-* **O que é:** [Tecnologias utilizadas aqui. Ex: Desenvolvido com C# e React para resolver X problema.]
-* **Destaque:** [O que torna este projeto único ou desafiador.]
+### 📱 [VCampos](https://github.com/ArthurPdaSilva/vcampos)
+Aplicativo mobile para automação da operação de vidraçaria.
+* **O que é:** Desenvolvido em **React Native (Expo)**, centraliza cadastro de vidros, cálculo de preços para medidas personalizadas e gestão de estoque local.
+* **Destaque:** Solução prática focada em otimização operacional e usabilidade offline.
 
 ### 📊 [Projeto Arretadas](https://github.com/ArthurPdaSilva)
 Uma plataforma voltada para o impacto social e visualização de dados críticos.
