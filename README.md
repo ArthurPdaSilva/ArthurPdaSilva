@@ -42,7 +42,18 @@ Um ecossistema central de ferramentas financeiras impulsionadas por IA.
 * **O que é:** Um monorepo que utiliza **FastAPI** no backend e **Next.js 15** no frontend para orquestrar agentes inteligentes.
 * **Destaque:** Focado em automação financeira e tomadas de decisão baseadas em fluxos de IA.
 
+### 🏗️ [Vcampos](https://github.com/ArthurPdaSilva)
+[Breve descrição do projeto Vcampos aqui. Ex: Sistema para otimização de fluxos de trabalho.]
+* **O que é:** [Tecnologias utilizadas aqui. Ex: Desenvolvido com C# e React para resolver X problema.]
+* **Destaque:** [O que torna este projeto único ou desafiador.]
+
 ### 📊 [Projeto Arretadas](https://github.com/ArthurPdaSilva)
 Uma plataforma voltada para o impacto social e visualização de dados críticos.
 * **O que é:** Dashboard focado na prevenção à violência contra mulheres, transformando dados brutos em insights visuais claros.
-* **
+* **Destaque:** Integração de APIs e construção de interfaces dinâmicas que facilitam a tomada de decisão em cenários sensíveis.
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArthurPdaSilva&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Arthur's GitHub Stats" />
+</div>
