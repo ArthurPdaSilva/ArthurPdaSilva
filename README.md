@@ -24,6 +24,9 @@ Sou movido pelo desafio de criar arquiteturas escaláveis — do backend em **.N
 ### 🧠 Inteligência Artificial & Backend
 <img src="https://img.shields.io/badge/LangChain-000000?style=flat&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/LangGraph-000000?style=flat&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-05998B?style=flat&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
 
+### ⚙️ Backend & Data
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" /> <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-05998B?style=flat&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+
 ### 💻 Frontend & Web
 <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
 
