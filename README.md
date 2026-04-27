@@ -44,7 +44,7 @@ Um ecossistema central de ferramentas financeiras impulsionadas por IA.
 
 ### 📱 [VCampos](https://github.com/ArthurPdaSilva/vcampos)
 Aplicativo mobile para automação da operação de vidraçaria.
-* **O que é:** Desenvolvido em **React Native (Expo)**, centraliza cadastro de vidros, cálculo de preços para medidas personalizadas e gestão de estoque local.
+* **O que é:** Desenvolvido em **React Native (Expo)**, centraliza cadastro de vidros, cálculo de preços para medidas personalizadas, gestão de estoque local e geração de orçamento em PDF
 * **Destaque:** Solução prática focada em otimização operacional e usabilidade offline.
 
 ### 📊 [Projeto Arretadas](https://github.com/ArthurPdaSilva)
