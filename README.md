@@ -228,6 +228,28 @@ Desenvolvimento de produtos mobile privados voltados à digitalização de opera
 
 ## 🚀 Projetos em Destaque
 
+### 🧭 [Rumo](https://github.com/ArthurPdaSilva/rumo-app)
+
+Aplicativo mobile **100% offline** para acompanhar vícios, organizar a rotina e manter o foco com Pomodoro. Sem conta, login ou servidor: os dados ficam no aparelho.
+
+**Stack:**
+
+`React Native` • `Expo` • `Expo Router` • `TypeScript` • `SQLite` • `Zustand` • `React Hook Form` • `Zod` • `Jest` • `Biome`
+
+Inclui:
+
+* Vários vícios ao mesmo tempo, com dias sem ceder calculados, marcos e registro de recaídas
+* Rotina semanal por blocos de horário, tarefas e metas semanais de horas
+* Pomodoro 25/5/15 que segue certo com o app fechado, com botões na notificação em segundo plano
+* Notificações locais personalizadas, modo discreto e alarme exato no Android 14+
+* Envio da rotina para a agenda do aparelho (Google Agenda), sem OAuth nem rede
+* Importação e backup em um único arquivo `.db`, com pré-visualização e transação
+* Repositories SQL sem ORM e migrations versionadas
+
+Qualidade: **426 testes automatizados em 52 suítes**, com relógio e IDs injetados para testes determinísticos.
+
+---
+
 ### ☁️ [Spring Microservices Lab](https://github.com/ArthurPdaSilva/spring-microservices-lab)
 
 Laboratório de arquitetura distribuída desenvolvido com **Java 21 e Spring Boot**, explorando os principais componentes de um ecossistema de microsserviços.
@@ -356,6 +378,7 @@ Inclui:
 * ✅ **100% de cobertura de testes** no RD Challenge
 * 🧪 **184 testes automatizados** no Meta App
 * 🧪 **59 testes unitários/componentes + 23 fluxos E2E** no Totion
+* 🧭 **426 testes automatizados em 52 suítes** no Rumo
 * 📱 **132 testes automatizados em 49 suítes** no VCampos
 * 🏋️ Importação transacional de **873 exercícios em português brasileiro** no Projetin
 * 🏗️ Arquitetura inicial do **IgnisAdmin-FrontEnd**
